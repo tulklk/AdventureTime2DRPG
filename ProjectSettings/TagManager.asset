@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Trap
+  - Enemy
+  - Key
+  - StairTrigger
+  - Gun
+  - Wall
+  - Chest
+  - Potion
+  - KeyLevel1
+  - KeyLevel2
+  - KeyLevel3
+  - Teleporter
+  - RopeZone
+  - BoneEnemy
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Option
+  - Wall
+  - RopePoint
+  - BoneEnemy
+  - RestrictedZone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2395742415
+    locked: 0
+  - name: Ground
+    uniqueID: 2057188675
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3615033901
+    locked: 0
+  - name: Enemy
+    uniqueID: 3813346967
+    locked: 0
+  - name: Player
+    uniqueID: 2158324699
+    locked: 0
+  - name: Item
+    uniqueID: 108023489
+    locked: 0
+  - name: UI
+    uniqueID: 1533245887
+    locked: 0
