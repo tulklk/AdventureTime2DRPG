@@ -12,9 +12,6 @@
   <img src="Assets/screenshots/3.jpg" alt="Level" width="48%"/>
   <img src="Assets/screenshots/4.jpg" alt="Combat" width="48%"/>
 </p>
-
-<img src="docs/icon.png" alt="Adventure Time 2D RPG" width="140"/>
-
 **Game 2D platformer / adventure — Solo project**
 
 [![Unity](https://img.shields.io/badge/Unity-2022.3-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
